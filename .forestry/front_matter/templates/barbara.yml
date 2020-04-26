@@ -1,0 +1,52 @@
+---
+label: Barbara
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: palette
+  label: palette
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: tagline
+    label: tagline
+  - type: file
+    name: logo_img
+    label: logo_img
+  - type: file
+    name: bg_img
+    label: bg_img
+  - type: boolean
+    name: has_nav
+    label: has_nav
+  - type: boolean
+    name: has_social
+    label: has_social
+- type: field_group
+  name: footer
+  label: footer
+  fields:
+  - type: text
+    name: content
+    label: content
+  - type: field_group_list
+    name: links
+    label: links
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: url
+      label: url
+    - type: boolean
+      name: new_window
+      label: new_window
