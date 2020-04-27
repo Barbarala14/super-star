@@ -5,7 +5,7 @@ subtitle: ''
 date: 2020-04-27T04:00:00Z
 thumb_img_path: "/images/mango mor punch.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: Making an orange mango smoothie with ginger
 hide_header: false
 
 ---
