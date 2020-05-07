@@ -4,7 +4,7 @@ title: Avo-banana cream
 subtitle: ''
 date: 2020-05-06T04:00:00Z
 thumb_img_path: "/images/rsz_avo_cream.jpg"
-content_img_path: ''
+content_img_path: "/images/rsz_1avo_cream.jpg"
 excerpt: ''
 hide_header: false
 
