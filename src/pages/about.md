@@ -9,4 +9,4 @@ menus:
 template: page
 
 ---
-I am a recipe developer, e-book author and yoga teacher in training who enjoy helping people live healthy and balanced lifestyle. With this blog I would like to inspire you to make healthy choice everyday so that you can in turn inspire others through your example. 
+Hi, I am Barbar. A recipe developer, e-book author and yoga teacher in training who enjoys helping people live a healthy and balanced lifestyle. With this blog I would like to inspire you to make healthy choice everyday so that you can in turn inspire others through your example. 
