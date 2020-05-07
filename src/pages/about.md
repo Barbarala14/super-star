@@ -1,6 +1,6 @@
 ---
-title: About me
-subtitle: Hello from me!!
+title: Hello from me!!
+subtitle: ''
 img_path: "/images/IMG_1152-1.jpeg"
 menus:
   main:
